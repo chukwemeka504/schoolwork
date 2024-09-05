@@ -1,0 +1,5 @@
+#!/bin/bash
+
+CSV_URL = ¨http://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html¨
+Raw_folder=¨raw¨
+
